@@ -1,5 +1,11 @@
 # silk-lang
 
+## 0.1.2
+
+### Patch Changes
+
+- 5b5441d: Highlight the inclusive range operator `..=` used in match patterns.
+
 ## 0.1.1
 
 ### Patch Changes
