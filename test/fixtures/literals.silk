@@ -45,3 +45,7 @@ let r = 0..10
 //      ^ constant.numeric.integer.silk
 //       ^^ keyword.operator.range.silk
 //         ^^ constant.numeric.integer.silk
+let i = 1..=5
+//      ^ constant.numeric.integer.silk
+//       ^^^ keyword.operator.range.silk
+//          ^ constant.numeric.integer.silk

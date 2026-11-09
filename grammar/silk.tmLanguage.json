@@ -225,7 +225,7 @@
       "patterns": [
         { "name": "keyword.operator.arrow.silk", "match": "->|=>" },
         { "name": "keyword.operator.pipeline.silk", "match": "\\|>" },
-        { "name": "keyword.operator.range.silk", "match": "\\.\\.\\.?" },
+        { "name": "keyword.operator.range.silk", "match": "\\.\\.[.=]?" },
         { "name": "keyword.operator.comparison.silk", "match": "==|!=|<=|>=" },
         { "name": "keyword.operator.logical.silk", "match": "&&|\\|\\|" },
         { "name": "keyword.operator.assignment.silk", "match": "=" },
